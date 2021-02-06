@@ -1,0 +1,892 @@
+Name,Age,Gender,Class/Dept,Joined,Occupation,Survived,Nationality
+"ABBOTT, Mr Ernest Owen",21,Male,Victualling,Southampton,Lounge Pantry Steward,0,English
+"ABRAMS, Mr William Thomas",34,Male,Engineering,Southampton,Fireman,0,English
+"ADAMS, Mr Robert John",26,Male,Engineering,Southampton,Fireman,0,English
+"AHIER, Mr Percy Snowden",20,Male,Victualling,Southampton,Saloon Steward,0,Channel Islander
+"AKERMAN, Mr Albert Edward",31,Male,Victualling,Southampton,3rd Class Steward,0,English
+"AKERMAN, Mr Joseph Francis",37,Male,Victualling,Southampton,Assistant Pantryman Steward,0,English
+"ALLARIA, Sig. Battista Antonio",22,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"ALLEN, Mr Ernest Frederick",24,Male,Engineering,Southampton,Trimmer,1,English
+"ALLEN, Mr George",26,Male,Victualling,Southampton,Scullion,0,English
+"ALLEN, Mr Henry",30,Male,Engineering,Southampton,Fireman,0,English
+"ALLEN, Mr Robert Spencer",35,Male,Victualling,Southampton,Bedroom Steward (1st Class),0,English
+"ALLSOP, Mr Alfred Samuel",36,Male,Engineering,Belfast,2nd Electrician,0,English
+"ALLSOP, Mr Frank Richard",43,Male,Victualling,Belfast,Saloon Steward,0,English
+"ANDERSON, Mr John",42,Male,Deck,Southampton,Able Seaman,1,English
+"ANDERSON, Mr Walter Yuill",50,Male,Victualling,Southampton,Bed Room Steward,0,Scottish
+"ANDREWS, Mr Charles Edward",19,Male,Victualling,Southampton,Saloon Steward (2nd class),1,English
+"ARCHER, Mr Ernest Edward",35,Male,Deck,Southampton,Able Seaman,1,English
+"ASHCROFT, Mr Austin Aloysius",26,Male,Victualling,Southampton,Clerk,0,English
+"ASHE, Mr Henry Wellesley",41,Male,Victualling,Southampton,Glory hole steward (3rd class),0,Irish
+"ASPESLAGH, Mr Georges",26,Male,Restaurant,Southampton,Assistant Plateman,0,Belgian
+"AVERY, Mr James Albert",20,Male,Engineering,Southampton,Trimmer,1,English
+"AYLING, Mr Edwin George",23,Male,Victualling,Southampton,Assistant Vegetable Cook,0,English
+"BACK, Mr Charles Frederick",37,Male,Victualling,Belfast,Assistant Lounge Steward,0,English
+"BAGGOTT, Mr Allen Marden",28,Male,Victualling,Southampton,Saloon Steward,1,English
+"BAGLEY, Mr Edward Henry",33,Male,Victualling,Southampton,Saloon Steward,0,English
+"BAILEY, Mr George",44,Male,Victualling,Belfast,Saloon Steward,0,English
+"BAILEY, Mr George Frank",46,Male,Engineering,Southampton,Fireman,0,Welsh
+"BAILEY, Mr Henry Joseph",46,Male,Deck,Southampton,Master-at-arms,1,English
+"BAINES, Mr Richard",58,Male,Engineering,Southampton,Greaser,0,Irish
+"BALL, Mr Percy",18,Male,Victualling,Southampton,Plate Steward,1,English
+"BANFI,  Ugo",24,Male,Restaurant,Southampton,Waiter,0,Italian
+"BANNON, Mr John Joseph",34,Male,Engineering,Southampton,Greaser,0,English
+"BARKER, Mr Albert Vale",19,Male,Victualling,Southampton,Baker,0,English
+"BARKER, Mr Ernest Thomas",40,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"BARKER, Mr Reginald Lomond",42,Male,Victualling,Belfast,"Second Purser, 1st Class",0,English
+"BARLOW, Mr Charles Henry",30,Male,Engineering,Southampton,Fireman,0,English
+"BARLOW, Mr George",39,Male,Victualling,Southampton,Bed Room Steward,0,English
+"BARNES, Mr Charles",29,Male,Engineering,Southampton,Fireman,0,English
+"BARNES, Mr Frederick Charles",40,Male,Victualling,Southampton,Assistant baker,0,English
+"BARNES, Mr John",39,Male,Engineering,Southampton,Fireman,0,English
+"BARRATT, Mr Arthur",16,Male,Victualling,Southampton,Bell Boy,0,English
+"BARRETT, Mr Frederick William",29,Male,Engineering,Southampton,Leading Fireman,1,English
+"BARRETT, Mr Frederick William",33,Male,Engineering,Southampton,Fireman,0,English
+"BARRINGER, Mr Arthur William",34,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"BARROW, Mr Charles Henry John",35,Male,Victualling,Southampton,Assistant butcher,0,English
+"BARROWS, Mr Edward William Peter",32,Male,Victualling,Southampton,Saloon Steward,0,English
+"BARTON, Mr Sidney John",26,Male,Victualling,Southampton,3rd Class Steward,0,English
+"BASILICO, Sig. Giovanni",27,Male,Restaurant,Southampton,Waiter,0,Italian
+"BAXTER, Mr Harry Ross",53,Male,Victualling,Southampton,3rd Class Steward,0,English
+"BAXTER, Mr Thomas Ferguson",55,Male,Victualling,Southampton,Linen Steward (1st class),0,Scottish
+"BAZZI, Sig. Narciso",33,Male,Restaurant,Southampton,Waiter,0,Swiss
+"BEATTIE, Mr Joseph John",40,Male,Engineering,Belfast,Greaser,0,Irish
+"BEAUCHAMP, Mr George William",24,Male,Engineering,Southampton,Fireman,1,English
+"BEDFORD, Mr William Barnett",31,Male,Victualling,Southampton,Assistant Roast Cook,0,English
+"BEEDEM, Mr George Arthur",35,Male,Victualling,Southampton,2nd Class Bedroom Steward,0,English
+"BEERE, Mr William",19,Male,Victualling,Southampton,Kitchen Porter,0,English
+"BELL, Mr Joseph",51,Male,Engineering,Belfast,Chief Engineer,0,English
+"BENDELL, Mr Frank",23,Male,Engineering,Southampton,Fireman,0,English
+"BENHAM, Mr Fred John",30,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"BENNETT, Mr George Alfred",30,Male,Engineering,Southampton,Fireman,0,English
+"BENNETT, Mrs Mabel Kate",33,Female,Victualling,Southampton,Stewardess,1,English
+"BENVILLE, Mr Edward",47,Male,Engineering,Southampton,Fireman,0,English
+"BERNARDI, Sig. Battista",22,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"BESSANT, Mr Edward",31,Male,Victualling,Southampton,1st class baggage steward,0,English
+"BESSANT, Mr William Edward Lowe",40,Male,Engineering,Southampton,Fireman,0,English
+"BEST, Mr Edwin Alfred",40,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"BEUX, Mr David",25,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"BEVIS, Mr Joseph Henry",22,Male,Engineering,Southampton,Trimmer,0,English
+"BIDDLECOMBE, Mr Reginald Charles",31,Male,Engineering,Southampton,Fireman,0,English
+"BIéTRIX, Mr George Baptiste",28,Male,Restaurant,Southampton,Cook,0,French
+"BIGGS, Mr Edward Charles",20,Male,Engineering,Southampton,Fireman,0,English
+"BILLOWS, Mr James",20,Male,Engineering,Southampton,Trimmer,0,English
+"BINSTEAD, Mr Walter William",20,Male,Engineering,Southampton,Trimmer,1,English
+"BISHOP, Mr Walter Alexander",34,Male,Victualling,Belfast,1st Class Bedroom Steward,0,English
+"BLACK, Mr Alexander",28,Male,Engineering,Southampton,Fireman,0,English
+"BLACK, Mr D.",41,Male,Engineering,Southampton,Fireman,0,Scottish
+"BLACKMAN, Mr Albert Edward",23,Male,Engineering,Southampton,Fireman,0,English
+"BLADES, Mr Frederick Charles",17,Male,Victualling,Southampton,Lift Steward,0,English
+"BLAKE, Mr John Douglas Stanley George",26,Male,Engineering,Belfast,Mess Steward,0,English
+"BLAKE, Mr Percival Albert",22,Male,Engineering,Southampton,Trimmer,1,English
+"BLAKE, Mr Thomas Henry",36,Male,Engineering,Southampton,Fireman,0,English
+"BLANEY, Mr James",32,Male,Engineering,Southampton,Fireman,0,Irish
+"BLANN, Mr Eustace Horatius",21,Male,Engineering,Southampton,Fireman,0,English
+"BLISS, Mrs Emma",45,Female,Victualling,Southampton,Stewardess,1,Swiss
+"BLUMET, Mr Jean Baptiste",26,Male,Restaurant,Southampton,Pantryman,0,French
+"BOCHATAY, Mr Alexis Joseph",30,Male,Victualling,Southampton,Chef,0,Swiss
+"BOCHET, Mr Pietro Giuseppe",43,Male,Restaurant,Southampton,Waiter,0,Italian
+"BOGIE, Mr Norman Leslie",59,Male,Victualling,Southampton,2nd Class Bedroom Steward,0,Scottish
+"BOLHUIS, Mr Hendrik",27,Male,Restaurant,Southampton,Larder Cook,0,Dutch
+"BOND, Mr William John",45,Male,Victualling,Belfast,Bed Room Steward,0,English
+"BOOTHBY, Mr Walter Thomas",37,Male,Victualling,Southampton,2nd Class Bedroom Steward,0,English
+"BOSTON, Mr William John",32,Male,Victualling,Belfast,Assistant Deck Steward (1st Class),0,English
+"BOTT, Mr William Thomas",46,Male,Engineering,Southampton,Greaser,0,English
+"BOUGHTON, Mr Bernard John",24,Male,Victualling,Southampton,First class saloon steward,0,English
+"BOWKER, Miss Ruth Harwood",31,Female,Restaurant,Southampton,Cashier,1,English
+"BOXHALL, Mr Joseph Groves",28,Male,Deck Officers,Belfast,4th. Officer,1,English
+"BOYD, Mr John",37,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"BOYES, Mr John Henry",36,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"BRADLEY, Mr Patrick Joseph",38,Male,Engineering,Southampton,Fireman,0,Scottish
+"BRADLEY, Mr Thomas Henry",28,Male,Deck,Southampton,Able Seaman,0,English
+"BRADSHAW, Mr John Albert Perkin",42,Male,Victualling,Southampton,Plate Steward (1st Class),0,English
+"BREWER, Mr Harry",30,Male,Engineering,Southampton,Trimmer,0,English
+"BREWSTER, Mr George Henry",52,Male,Victualling,Belfast,Bedroom Steward (1st Class),0,English
+"BRIANT, Mr Albert",34,Male,Engineering,Southampton,Greaser,0,English
+"BRIANT, Mr Arthur",30,Male,Engineering,Southampton,Greaser,0,English
+"BRICE, Mr Walter Thomas",42,Male,Deck,Southampton,Able Seaman,1,English
+"BRIDE, Mr Harold Sydney",22,Male,Victualling,Belfast,Assistant Telegraphist,1,English
+"BRIGHT, Mr Arthur John",42,Male,Deck,Belfast,Quartermaster,1,English
+"BRISTOW, Mr Harry",38,Male,Victualling,Southampton,Saloon Steward,0,English
+"BRISTOW, Mr Robert Charles",38,Male,Victualling,Southampton,3rd Class Steward,0,Irish
+"BROOKMAN, Mr John Cress",28,Male,Victualling,Southampton,3rd Class Steward,0,English
+"BROOKS, Mr J.",25,Male,Engineering,Southampton,Trimmer,0,English
+"BROOM, Mr Herbert George",33,Male,Victualling,Belfast,Bath Steward,0,English
+"BROOME, Mr Athol Frederick",31,Male,Victualling,Southampton,Verandah Steward (1st Class),0,English
+"BROWN, Mr Edward",34,Male,Victualling,Belfast,Saloon Steward,1,Welsh
+"BROWN, Mr John",28,Male,Engineering,Southampton,Fireman,0,Welsh
+"BROWN, Mr Joseph",30,Male,Engineering,Southampton,Fireman,0,English
+"BROWN, Mr Walter James",41,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"BUCKLEY, Mr H. E.",34,Male,Victualling,Southampton,Assistant Vegetable Cook,0,English
+"BULEY, Mr Edward John",26,Male,Deck,Southampton,Able Seaman,1,English
+"BULL, Mr Walter Edward",36,Male,Victualling,Southampton,Scullion,0,English
+"BULLEY, Mr Henry Ashburnham",21,Male,Victualling,Southampton,Boots Steward (2nd class),0,English
+"BUNNELL, Mr Wilfred James",20,Male,Victualling,Belfast,Plate Steward,0,English
+"BURGESS, Mr Charles",18,Male,Victualling,Southampton,Extra 3rd. Baker,1,English
+"BURKE, Mr Richard Edward",29,Male,Victualling,Belfast,Lounge Steward (1st class),0,English
+"BURKE, Mr William",39,Male,Victualling,Belfast,Saloon Steward,1,Irish
+"BURR, Mr Ewart Sydenham",29,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"BURRAGE, Mr Arthur Victor Edwards",20,Male,Victualling,Southampton,Plate Steward,1,English
+"BURROUGHS, Mr Arthur Peckham",34,Male,Engineering,Southampton,Fireman,0,English
+"BURTON, Mr Edward John",35,Male,Engineering,Southampton,Fireman,0,English
+"BUTT, Mr Robert Henry",21,Male,Victualling,Southampton,Saloon Steward,0,English
+"BUTT, Mr William John",30,Male,Engineering,Southampton,Fireman,0,English
+"BUTTERWORTH, Mr John",23,Male,Victualling,Southampton,Saloon Steward,0,English
+"BYRNE, Mr James Edward",44,Male,Victualling,Southampton,Bedroom Steward (2nd Class),0,English
+"CALDERWOOD, Mr Hugh",33,Male,Engineering,Belfast,Trimmer,0,Irish
+"CAMPBELL, Mr Donald Samuel",28,Male,Victualling,Southampton,3rd Class Clerk,0,Australian
+"CANNER, Mr John",40,Male,Engineering,Southampton,Fireman,0,English
+"CARNEY, Mr William",31,Male,Victualling,Southampton,Lift Steward,0,Welsh
+"CARR, Mr Richard Stephen",27,Male,Engineering,Southampton,Trimmer,0,English
+"CARTER, Mr James",46,Male,Engineering,Southampton,Fireman,0,English
+"CARTWRIGHT, Mr James Edward",33,Male,Victualling,Belfast,Saloon Steward,0,English
+"CASALI, Sig. Giulio",32,Male,Restaurant,Southampton,Waiter,0,Italian
+"CASEY, Mr Thomas",44,Male,Engineering,Southampton,Trimmer,0,English
+"CASSWILL, Mr Charles",34,Male,Victualling,Southampton,Saloon Steward,0,English
+"CASTLEMAN, Mr Edward",37,Male,Engineering,Southampton,Greaser,0,English
+"CATON, Miss Annie",33,Female,Victualling,Southampton,Turkish Bath Stewardess,1,English
+"CAUNT, Mr William Ewart",28,Male,Victualling,Southampton,Grill Cook,0,English
+"CAVE, Mr Herbert",39,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"CAVELL, Mr George Henry",22,Male,Engineering,Southampton,Trimmer,1,English
+"CECIL, Mr Charles Thomas",21,Male,Victualling,Southampton,Steward,0,English
+"CHABOISSON, Mr Adrien Firmin",25,Male,Restaurant,Southampton,Roast Cook,0,French
+"CHAPMAN, Mr Joseph Charles",32,Male,Victualling,Southampton,"Boots steward, 2nd class",1,English
+"CHARMAN, Mr John James",25,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"CHERRETT, Mr William Victor",24,Male,Engineering,Southampton,Fireman,0,English
+"CHEVERTON, Mr William Frederick",27,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"CHISNALL, Mr George Alexander",36,Male,Engineering,Belfast,Boilermaker,0,English
+"CHITTY, Mr Archibald George",28,Male,Victualling,Southampton,Third Class Steward,0,English
+"CHITTY, Mr George Henry",50,Male,Victualling,Southampton,Baker,0,English
+"CHORLEY, Mr John Henry",25,Male,Engineering,Southampton,Fireman,0,English
+"CHRISTMAS, Mr Herbert Harry",34,Male,Victualling,Southampton,Assistant Saloon Steward (2nd class),0,English
+"CLARK, Mr William",40,Male,Engineering,Southampton,Fireman,1,Irish
+"CLENCH, Mr Frederick Charles",33,Male,Deck,Southampton,Able Seaman,1,English
+"CLENCH, Mr George James",31,Male,Deck,Southampton,Able Seaman,0,English
+"COE, Mr Harry",21,Male,Engineering,Southampton,Trimmer,0,English
+"COLEMAN, Mr Albert Edward",28,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"COLEMAN, Mr John",57,Male,Engineering,Belfast,Engineers' Mess steward,0,Irish
+"COLGAN, Mr E. Joseph",33,Male,Victualling,Southampton,Scullion,1,Irish
+"COLLINS, Mr John",17,Male,Victualling,Southampton,Scullion,1,Irish
+"COLLINS, Mr John",38,Male,Engineering,Southampton,Fireman,1,English
+"COMBES, Mr George",34,Male,Engineering,Southampton,Fireman,1,English
+"CONWAY, Mr Percy Walter",25,Male,Victualling,Belfast,Saloon Steward (2nd class),0,English
+"COOK, Mr Gilbert William",32,Male,Victualling,Southampton,Saloon Steward,0,English
+"COOMBS, Mr Charles Augustus",45,Male,Victualling,Southampton,Assistant Cook,0,English
+"COOPER, Mr H.",25,Male,Engineering,Southampton,Fireman,0,English
+"COOPER, Mr James Edward",26,Male,Engineering,Southampton,Trimmer,0,English
+"COPPERTHWAITE, Mr Albert Harry",28,Male,Engineering,Southampton,Fireman,0,English
+"CORBEN, Mr Ernest Theodore",27,Male,Victualling,Southampton,Assistant Printer Steward,0,English
+"CORCORAN, Mr Dennis",33,Male,Engineering,Southampton,Fireman,0,English
+"CORNAIRE, Mr Marcel Raymond André",19,Male,Restaurant,Southampton,Assistant Roast Cook,0,French
+"COTTON, Mr Alfred",35,Male,Engineering,Southampton,Trimmer,0,English
+"COUCH, Mr Frank",27,Male,Deck,Southampton,Able Seaman,0,English
+"COUCH, Mr Joseph Henry",49,Male,Engineering,Southampton,Greaser,0,English
+"COUPER, Mr Robert Frederick William",30,Male,Engineering,Southampton,Fireman,1,English
+"COUTIN, Mr Auguste Louis",28,Male,Restaurant,Southampton,Entrée Cook,0,French
+"COX, Mr William Denton",30,Male,Victualling,Southampton,Third class steward,0,English
+"COY, Mr Francis Ernest George",27,Male,Engineering,Belfast,Junior Assistant 3rd. Engineer,0,English
+"CRABB, Mr Henry James",23,Male,Engineering,Southampton,Trimmer,0,English
+"CRAFTER, Mr Frederick Horace",20,Male,Victualling,Southampton,Saloon Steward (1st class),1,English
+"CRAWFORD, Mr Alfred George",43,Male,Victualling,Belfast,Bed Room Steward,1,English
+"CREESE, Mr Henry Philip",45,Male,Engineering,Belfast,Deck Engineer,0,English
+"CRIMMINS, Mr James",21,Male,Engineering,Southampton,Fireman,1,English
+"CRISP, Mr Albert Hector",39,Male,Victualling,Belfast,Saloon Steward,0,English
+"CRISPIN, Mr William",33,Male,Victualling,Southampton,Glory Hole Steward,0,English
+"CROSBIE, Mr John Borthwick",45,Male,Victualling,Southampton,Turkish Bath Attendant,0,English
+"CROSS, Mr William Alfred",44,Male,Engineering,Southampton,Fireman,0,English
+"CROVELLA, Sig. Paolo Luigi",16,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"CROW, Mr George Frederick",26,Male,Victualling,Southampton,Saloon Steward,1,English
+"CRUMPLIN, Mr Charles George Chandler",35,Male,Victualling,Belfast,Bed Room Steward,0,English
+"CULLEN, Mr Charles James",49,Male,Victualling,Belfast,1st Class Bedroom Steward,1,English
+"CUNNINGHAM, Mr Andrew Orr",38,Male,Victualling,Belfast,1st Class Bedroom Steward,1,Scottish
+"CUNNINGHAM, Mr Bernard",35,Male,Engineering,Southampton,Fireman,0,English
+"CURTIS, Mr Arthur",26,Male,Engineering,Southampton,Fireman,0,English
+"DANIELS, Mr Sidney Edward",18,Male,Victualling,Southampton,Third class steward,1,English
+"DASHWOOD, Mr William George",18,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"DAVIES, Mr Gordon Raleigh",32,Male,Victualling,Belfast,1st Class Bedroom Steward,0,English
+"DAVIES, Mr Robert J.",26,Male,Victualling,Belfast,Saloon Steward,0,Welsh
+"DAVIES, Mr Thomas",33,Male,Engineering,Southampton,Leading Fireman,0,English
+"DAVIS, Mr John",27,Male,Victualling,Belfast,Extra 2nd Baker,0,English
+"DAVIS, Mr Stephen James",39,Male,Deck,Southampton,Able Seaman,0,English
+"DAWSON, Mr Joseph",23,Male,Engineering,Southampton,Trimmer,0,Irish
+"DE MARSICO, Sig. Govanni",20,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"DEAN, Mr George Fox Hopkins",19,Male,Victualling,Southampton,Assistant Saloon Steward,0,English
+"DEBREUCQ, Mr Maurice Emile Victor",18,Male,Restaurant,Southampton,Assistant Waiter,0,French
+"DEEBLE, Mr Alfred Arnold",34,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"DERRETT, Mr Arthur Henry",28,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"DESLANDES, Mr Percival Stainer",38,Male,Victualling,Southampton,Saloon Steward,0,English
+"DESVERNINE, Mr Louis Gabriel",20,Male,Restaurant,Southampton,Assistant Pastry Cook,0,French
+"DIAPER, Mr John Joseph",27,Male,Engineering,Southampton,Fireman,1,English
+"DICKSON, Mr William",37,Male,Engineering,Southampton,Trimmer,0,English
+"DILLON, Mr Thomas Patrick",33,Male,Engineering,Southampton,Trimmer,1,English
+"DINENAGE, Mr James Richard",49,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"DODD, Mr Edward Charles",39,Male,Engineering,Belfast,Junior 3rd. Engineer,0,English
+"DODD, Mr George Charles",44,Male,Victualling,Belfast,"Second Steward, 1st Class",0,English
+"DODDS, Mr Henry Watson",26,Male,Engineering,Southampton,Junior Assistant 4th Engineer,0,Guyanese
+"DOEL, Mr Frederick",22,Male,Engineering,Southampton,Fireman,1,English
+"DOLBY, Mr Joseph",38,Male,Victualling,Belfast,Reception Steward (1st Class),0,English
+"DONATI, Sig. Italo Francesco",17,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"DONOGHUE, Mr Florence Thomas",31,Male,Victualling,Belfast,Bed Room Steward,0,Irish
+"DORE, Mr Albert James",22,Male,Engineering,Southampton,Trimmer,1,English
+"DORNIER, Mr Louis Auguste",20,Male,Restaurant,Southampton,Assistant Fish Cook,0,French
+"DOUGHTY, Mr Walter Thomas",22,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"DOYLE, Mr Laurence",27,Male,Engineering,Southampton,Fireman,0,Irish
+"DUFFY, Mr William Luke",36,Male,Engineering,Belfast,Writer / Engineer's Clerk,0,Irish
+"DUNFORD, Mr William",48,Male,Victualling,Southampton,Hospital Steward,0,English
+"DYER, Mr Henry Ryland",24,Male,Engineering,Belfast,Senior Assistant 4th. Engineer,0,English
+"DYER, Mr William Henry",33,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"DYMOND, Mr Frank",36,Male,Engineering,Southampton,Fireman,1,English
+"EAGLE, Mr Alfred James Jacob",27,Male,Engineering,Southampton,Trimmer,0,English
+"EASTMAN, Mr Charles",44,Male,Engineering,Southampton,Greaser,0,English
+"EDBROOKE, Mr Francis Samuel Jacob",23,Male,Victualling,Southampton,Third class steward,0,English
+"EDE, Mr George Bulkeley",23,Male,Victualling,Southampton,3rd Class Steward,0,English
+"EDGE, Mr Frederick William",39,Male,Victualling,Southampton,Deck Steward (2nd class),0,English
+"EDWARDS, Mr Charles Essex",49,Male,Victualling,Southampton,Assistant Pantryman Steward (1st Class),0,Welsh
+"EGG, Mr William Henry",48,Male,Victualling,Southampton,Third class steward,0,English
+"ELLIOTT, Mr Everett Edward",23,Male,Engineering,Southampton,Trimmer,0,English
+"ELLIS, Mr John Bertie",28,Male,Victualling,Southampton,Assistant Vegetable Cook,1,English
+"ENNIS, Mr Walter",34,Male,Victualling,Southampton,Turkish Bath Attendant,0,English
+"ERVINE, Mr Albert George",18,Male,Engineering,Belfast,Assistant Electrician,0,Irish
+"ETCHES, Mr Henry Samuel",43,Male,Victualling,Belfast,First class bedroom steward,1,English
+"EVANS, Mr Alfred Frank",25,Male,Deck,Southampton,Lookout,1,English
+"EVANS, Mr Frank Oliver",27,Male,Deck,Southampton,Able Seaman,1,English
+"EVANS, Mr George Richard",27,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"EVANS, Mr William Thomas",33,Male,Engineering,Southampton,Trimmer,0,English
+"FAIRALL, Mr Henry Charles",40,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"FARENDEN, Mr Ernest John",22,Male,Victualling,Belfast,Confectioner,0,English
+"FARQUHARSON, Mr William Edward",39,Male,Engineering,Belfast,Senior 2nd. Engineer,0,English
+"FAULKNER, Mr William Stephen",37,Male,Victualling,Belfast,1st Class Bedroom Steward,1,English
+"FAY, Mr Thomas Joseph",30,Male,Engineering,Southampton,Greaser,0,English
+"FEI, Sig. Carlo",19,Male,Restaurant,Southampton,Scullion,0,Italian
+"FELLOWES, Mr Alfred James",28,Male,Victualling,Belfast,Assistant boots steward (1st class),0,English
+"FELTHAM, Mr George William",41,Male,Victualling,Southampton,Vienna Baker,0,English
+"FERRARY, Mr Antonio",33,Male,Engineering,Southampton,Trimmer,0,"Mexican, American, English"
+"FERRIS, Mr William",39,Male,Engineering,Southampton,Leading Fireman,0,English
+"FINCH, Mr Henry Herman",18,Male,Victualling,Southampton,Steward (3rd Class),0,English
+"FIORAVANTE, Sig. Giuseppe Bertoldo",23,Male,Restaurant,Southampton,Assistant Scullion,0,Italian
+"FITZPATRICK, Mr Cecil William",21,Male,Engineering,Southampton,Mess Steward,1,Irish
+"FITZPATRICK, Mr Hugh Joseph",29,Male,Engineering,Belfast,Junior Boilermaker,0,English
+"FLAHERTY, Mr Edward",52,Male,Engineering,Southampton,Fireman,1,English
+"FLEET, Mr Frederick",24,Male,Deck,Belfast,Lookout,1,English
+"FLETCHER, Mr Percy William",25,Male,Victualling,Belfast,Bugler Steward,0,English
+"FOLEY, Mr John",46,Male,Deck,Belfast,Deck storekeeper,1,Irish
+"FOLEY, Mr Wilfred Cyril",21,Male,Victualling,Southampton,3rd Class Steward,1,Welsh
+"FORD, Mr Ernest",33,Male,Victualling,Southampton,3rd Class Steward,0,English
+"FORD, Mr Francis",44,Male,Victualling,Southampton,Bedroom Steward (2nd class),0,English
+"FORD, Mr H.",22,Male,Engineering,Southampton,Trimmer,0,English
+"FORD, Mr Thomas",33,Male,Engineering,Southampton,Leading Fireman,0,English
+"FORWARD, Mr James",27,Male,Deck,Southampton,Able Seaman,1,English
+"FOSTER, Mr Alfred Charles",37,Male,Engineering,Belfast,Storekeeper (Engineering),0,English
+"FOX, Mr William Thomas",27,Male,Victualling,Southampton,Steward,0,English
+"FRANKLIN, Mr Alan Vincent",28,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"FRASER, Mr J.",30,Male,Engineering,Southampton,Fireman,0,
+"FRASER, Mr James",30,Male,Engineering,Belfast,Junior Assistant 3rd. Engineer,0,Scottish
+"FREDERICKS, Mr Walter Francis",21,Male,Engineering,Southampton,Trimmer,1,English
+"FREEMAN, Mr Ernest Edward Samuel",45,Male,Victualling,Belfast,Deck Steward (1st Class),0,English
+"FRYER, Mr Albert Ernest",29,Male,Engineering,Southampton,Trimmer,1,English
+"GATTI, Sig. Gaspare Antonio Pietro",37,Male,Restaurant,Southampton,Ã  la Carte Restaurant Manager,0,Italian
+"GEDDES, Mr Richard Charles",32,Male,Victualling,Southampton,Bed Room Steward (1st class),0,English
+"GEER, Mr Alfred Emest",26,Male,Engineering,Southampton,Fireman,0,English
+"GIBBONS, Mr Jacob William",36,Male,Victualling,Southampton,Second Class Steward,1,English
+"GILARDINO, Sig. Vincenzo Pio",31,Male,Restaurant,Southampton,Waiter,0,Italian
+"GILES, Mr John Robert",32,Male,Victualling,Southampton,2nd Baker,0,English
+"GILL, Mr Joseph Stanley",38,Male,Victualling,Belfast,Bed Room Steward,0,English
+"GILL, Mr Patrick",38,Male,Victualling,Southampton,Ship's Cook,0,Irish
+"GODLEY, Mr George Auguste",38,Male,Engineering,Southampton,Fireman,1,English
+"GODWIN, Mr Frederick Charles",36,Male,Engineering,Southampton,Greaser,0,English
+"GOLD, Mrs Jane Kate Coulson",45,Female,Victualling,Southampton,Stewardess,1,English
+"GOLDER, Mr Martin William",35,Male,Engineering,Southampton,Fireman,0,English
+"GOLLOP, Mr Percival Salisbury",30,Male,Victualling,Southampton,Assistant Passage Cook,0,English
+"GORDON, Mr John",30,Male,Engineering,Southampton,Trimmer,0,Scottish
+"GOREE, Mr Frank",40,Male,Engineering,Southampton,Greaser,0,English
+"GOSHAWK, Mr Alfred James",40,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"GOSLING, Mr Bertram James",22,Male,Engineering,Southampton,Trimmer,0,English
+"GOSLING, Mr Frank Henry",25,Male,Engineering,Southampton,Trimmer,0,English
+"GRADIDGE, Mr Ernest Edward",22,Male,Engineering,Southampton,Fireman,0,English
+"GRAHAM, Mr Thomas Gibson",28,Male,Engineering,Belfast,Fireman,1,Irish
+"GREEN, Mr George",20,Male,Engineering,Southampton,Trimmer,0,English
+"GREGORY, Mr David",43,Male,Engineering,Southampton,Greaser,0,English
+"GREGSON, Miss Mary Josephine",45,Female,Victualling,Southampton,Stewardess,1,English
+"GROSCLAUDE, Mr Gérald",24,Male,Restaurant,Southampton,Waiter,0,Swiss
+"GUMERY, Mr George",24,Male,Engineering,Southampton,Mess Steward,0,English
+"GUNN, Mr Joseph Alfred",30,Male,Victualling,Southampton,Assistant Saloon Steward (2nd Class),0,English
+"GUY, Mr Elgar John",29,Male,Victualling,Southampton,Boots,1,English
+"GWINN, Mr William Logan",37,Male,Postal Clerk,Southampton,Postal Clerk / Postman,0,American
+"HAGGAN, Mr John",35,Male,Engineering,Belfast,Fireman,1,Irish
+"HAINES, Mr Albert",31,Male,Deck,Belfast,Boatswain Mate,1,English
+"HALFORD, Mr Richard",27,Male,Victualling,Southampton,3rd Class Steward,1,English
+"HALL, Mr Frank Alfred James",40,Male,Victualling,Southampton,Scullion,0,English
+"HALL, Mr J.",32,Male,Engineering,Southampton,Fireman,0,English
+"HALLETT, Mr George Alexander",23,Male,Engineering,Southampton,Fireman,0,English
+"HAMBLYN, Mr Ernest William",47,Male,Victualling,Southampton,2nd Class Bedroom Steward,0,English
+"HAMILTON, Mr Ernest",25,Male,Victualling,Belfast,Assistant Smoke Room Steward (1st class),0,English
+"HANDS, Mr Bernard",54,Male,Engineering,Southampton,Fireman,0,Irish
+"HANNAM, Mr George",30,Male,Engineering,Southampton,Fireman,0,English
+"HARDER, Mr William",39,Male,Deck,Southampton,Window Cleaner,1,English
+"HARDING, Mr Alfred John",21,Male,Victualling,Southampton,Assistant Pantry Steward (2nd class),0,English
+"HARDWICK, Mr Reginald",21,Male,Victualling,Southampton,Kitchen Porter,1,English
+"HARDY, Mr John",40,Male,Victualling,Belfast,Chief Second Class Steward,1,English
+"HARRIS, Mr Amos",24,Male,Engineering,Southampton,Trimmer,0,English
+"HARRIS, Mr Charles William",19,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"HARRIS, Mr Clifford Henry",17,Male,Victualling,Southampton,Bell Boy,0,English
+"HARRIS, Mr Edward John",29,Male,Engineering,Southampton,Fireman,0,English
+"HARRIS, Mr Edward Matthew",17,Male,Victualling,Southampton,Assistant Pantryman Steward (1st Class),0,English
+"HARRIS, Mr Fred",39,Male,Engineering,Southampton,Fireman,1,English
+"HARRISON, Mr Aragõa Drummond",40,Male,Victualling,Southampton,Saloon Steward (1st class),1,English
+"HARRISON, Mr Norman E.",38,Male,Engineering,Belfast,Junior 2nd. Engineer,0,English
+"HART, Mr James",54,Male,Engineering,Southampton,Fireman,0,English
+"HART, Mr John Edward",31,Male,Victualling,Southampton,Steward,1,English
+"HARTNELL, Mr Fred",21,Male,Victualling,Southampton,Saloon Steward,1,English
+"HARVEY, Mr Herbert Gifford",34,Male,Engineering,Belfast,Junior Assistant 2nd. Engineer,0,Irish
+"HATCH, Mr Hugh",21,Male,Victualling,Southampton,Scullion,0,English
+"HAWKESWORTH, Mr James",52,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"HAWKESWORTH, Mr William Walter",43,Male,Victualling,Southampton,Deck Steward (1st class),0,English
+"HAYTER, Mr Arthur",44,Male,Victualling,Belfast,Bed Room Steward,0,English
+"HEAD, Mr Alfred",24,Male,Engineering,Southampton,Fireman,0,English
+"HEBB, Mr William Albert Thomas",22,Male,Engineering,Southampton,Trimmer,1,English
+"HEINEN, Mr Joseph Dominichus",30,Male,Victualling,Southampton,Saloon Steward (2nd class),0,"German, English"
+"HEMMING, Mr Samuel Ernest",43,Male,Deck,Belfast,Lamp Trimmer,1,English
+"HENDRICKSON, Mr Charles Osker",28,Male,Engineering,Southampton,Leading Fireman,1,English
+"HENDY, Mr Edward Martin",39,Male,Victualling,Belfast,Saloon Steward,0,English
+"HENSFORD, Mr Herbert George Ernest",26,Male,Victualling,Southampton,Assistant Butcher,0,English
+"HESKETH, Mr John Henry",33,Male,Engineering,Belfast,Second Engineer (refrigeration),0,English
+"HESLIN, Mr James",51,Male,Engineering,Southampton,Trimmer,0,Irish
+"HEWITT, Mr Thomas",37,Male,Victualling,Belfast,Bed Room Steward (1st class),0,English
+"HICHENS, Mr Robert",29,Male,Deck,Southampton,Quartermaster,1,English
+"HILL, Mr Henry Parkinson",37,Male,Victualling,Southampton,Steward,0,English
+"HILL, Mr James",25,Male,Engineering,Southampton,Trimmer,0,English
+"HILL, Mr James Colston",43,Male,Victualling,Belfast,1st Class Bedroom Steward,0,English
+"HINCKLEY, Mr George Herbert",40,Male,Victualling,Southampton,Bathroom Steward (1st Class),0,English
+"HINE, Mr William Edward",36,Male,Victualling,Southampton,3rd Baker,0,English
+"HINTON, Mr Stephen William",30,Male,Engineering,Southampton,Trimmer,0,English
+"HISCOCK, Mr Sydney George",25,Male,Victualling,Southampton,Plate Steward,0,English
+"HOARE, Mr Leonard James",18,Male,Victualling,Belfast,Saloon Steward,0,English
+"HODGE, Mr Charley",29,Male,Engineering,Belfast,Senior Assistant 3rd. Engineer,0,English
+"HODGES, Mr W.",26,Male,Engineering,Southampton,Fireman,0,English
+"HODGKINSON, Mr Leonard",46,Male,Engineering,Belfast,Senior 4th. Engineer,0,English
+"HOGAN, Mr Albert John",19,Male,Victualling,Southampton,Scullion,0,English
+"HOGG, Mr Charles William",43,Male,Victualling,Southampton,1st Class Bedroom Steward,0,English
+"HOGG, Mr George Alfred",29,Male,Deck,Belfast,Lookout,1,English
+"HOGUE, Mr E.",22,Male,Victualling,Southampton,Plate Steward,0,English
+"HOLLAND, Mr Thomas",28,Male,Victualling,Belfast,Reception Steward,0,English
+"HOLLOWAY, Mr Sidney",24,Male,Victualling,Southampton,Assistant clothes presser steward,0,English
+"HOLMAN, Mr Harry",29,Male,Deck,Belfast,Able Seaman,0,English
+"HOPGOOD, Mr Roland John C.",29,Male,Engineering,Southampton,Fireman,0,English
+"HOPKINS, Mr Frederick William",14,Male,Victualling,Southampton,Plate Steward,0,English
+"HOPKINS, Mr Robert John",43,Male,Deck,Belfast,Able Seaman,1,Irish
+"HORSWILL, Mr Albert Edward James",33,Male,Deck,Southampton,Able Seaman,1,English
+"HOSGOOD, Mr Richard William",22,Male,Engineering,Southampton,Fireman,0,English
+"HOSKING, Mr George Fox",36,Male,Engineering,Belfast,Senior 3rd. Engineer,0,English
+"HOUSE, Mr William Charles",45,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"HOWELL, Mr Arthur Albert",31,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"HUGHES, Mr William Thomas",34,Male,Victualling,Southampton,Assistant Second Steward (1st Class),0,English
+"HUMBY, Mr Frederick",17,Male,Victualling,Southampton,Plate Steward (2nd Class),0,English
+"HUMPHREYS, Mr Humphrey",31,Male,Victualling,Southampton,"Assistant Saloon Steward, 2nd Class",0,English
+"HUMPHREYS, Mr Sidney",52,Male,Deck,Southampton,Quartermaster,1,English
+"HUNT, Mr Albert Sylvanus",23,Male,Engineering,Southampton,Trimmer,1,English
+"HUNT, Mr Tom",27,Male,Engineering,Southampton,Fireman,0,English
+"HURST, Mr Charles John",40,Male,Engineering,Southampton,Fireman,0,English
+"HURST, Mr Walter",23,Male,Engineering,Southampton,Fireman,1,English
+"HUTCHINSON, Mr James",31,Male,Victualling,Southampton,Vegetable Cook,0,English
+"HUTCHINSON, Mr John Hall",28,Male,Deck,Belfast,Carpenter / Joiner,0,English
+"HYLAND, Mr Leo James",19,Male,Victualling,Southampton,Steward (3rd Class),1,English
+"IDE, Mr Harry John",31,Male,Victualling,Southampton,1st Class Bedroom Steward,0,English
+"INGRAM, Mr George",19,Male,Engineering,Southampton,Trimmer,0,English
+"INGROUILLE, Mr Henry",21,Male,Victualling,Southampton,Steward,0,Channel Islander
+"INGS, Mr William Ernest",20,Male,Victualling,Southampton,Scullion,0,English
+"INSTANCE, Mr Thomas",31,Male,Engineering,Southampton,Fireman,0,English
+"JACKOPSON, Mr John Henry",30,Male,Engineering,Southampton,Fireman,0,English
+"JACKSON, Mr Cecil",22,Male,Victualling,Belfast,Assistant boots steward (1st class),0,English
+"JAGO, Mr Joseph",59,Male,Engineering,Southampton,Greaser,0,English
+"JAILLET, Mr Henri Marie",38,Male,Restaurant,Southampton,Pastry Cook (Restaurant),0,French
+"JAMES, Mr Thomas",27,Male,Engineering,Southampton,Fireman,0,Welsh
+"JANAWAY, Mr William Frank",35,Male,Victualling,Belfast,Bed Room Steward,0,English
+"JANIN, Mr Claude Marie",29,Male,Restaurant,Southampton,Soup Cook,0,French
+"JEFFERY, Mr William Alfred",28,Male,Restaurant,Southampton,A la carte restaurant controller,0,English
+"JENNER, Mr Thomas Henry (Harry)",55,Male,Victualling,Belfast,Saloon Steward,0,English
+"JENSEN, Mr Charles Valdemar",24,Male,Victualling,Southampton,Saloon Steward,0,Danish
+"JESSOP, Miss Violet Constance",24,Female,Victualling,Southampton,Stewardess,1,"English,Argentinian"
+"JEWELL, Mr Archie",23,Male,Deck,Belfast,Lookout,1,English
+"JOAS, Mr N.",39,Male,Engineering,Southampton,Fireman,0,Cape Verdean
+"JOHNSTONE, Mr James",52,Male,Victualling,Belfast,Saloon Steward,1,Scottish
+"JONES, Mr Albert Hugh Brabner",17,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"JONES, Mr Arthur Ernest",37,Male,Victualling,Southampton,Plate Steward (2nd Class),0,English
+"JONES, Mr Harry Owen Glendower",36,Male,Victualling,Southampton,Roast Cook,0,English
+"JONES, Mr Thomas William",34,Male,Deck,Southampton,Able Seaman,1,Welsh
+"JONES, Mr Victor Reginald",20,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"JOUANNAULT, Mr Georges Jules",24,Male,Restaurant,Southampton,Assistant Sauce Cook,0,French
+"JOUGHIN, Mr Charles John",33,Male,Victualling,Belfast,Chief Baker,1,English
+"JUDD, Mr Charles Edward",31,Male,Engineering,Southampton,Fireman,1,English
+"JUKES, Mr Henry James",38,Male,Engineering,Southampton,Greaser,0,English
+"JUPE, Mr Boykett Herbert",30,Male,Engineering,Southampton,Electrician,0,English
+"KASPER, Mr F.",40,Male,Engineering,Southampton,Fireman,1,German
+"KEARL, Mr Charles Henry",44,Male,Engineering,Southampton,Greaser,0,English
+"KEARL, Mr George Edward",25,Male,Engineering,Southampton,Trimmer,0,English
+"KEEGAN, Mr James",38,Male,Engineering,Southampton,Leading Fireman,0,English
+"KEEN, Mr Percy Edward",30,Male,Victualling,Southampton,Saloon Steward (1st class),1,English
+"KELLAND, Mr Thomas",19,Male,Victualling,Southampton,2nd class library steward,0,English
+"KELLY, Mr James",44,Male,Engineering,Southampton,Greaser,0,Irish
+"KELLY, Mr William Patrick",23,Male,Engineering,Belfast,Assistant Electrician,0,Scottish
+"KEMISH, Mr George",22,Male,Engineering,Southampton,Fireman,1,English
+"KEMP, Mr Thomas Hulman",43,Male,Engineering,Belfast,Extra Assistant 4th Engineer (Refrigeration),0,English
+"KENNELL, Mr Charles",30,Male,Victualling,Southampton,Hebrew Cook,0,South African
+"KENZLER, Mr August",44,Male,Engineering,Belfast,Storekeeper,0,English
+"KERLEY, Mr William Thomas",28,Male,Victualling,Southampton,Assistant Saloon Steward (2nd class),0,English
+"KERR, Mr Thomas Russell",26,Male,Engineering,Southampton,Fireman,0,Scottish
+"KETCHLEY, Mr Henry",36,Male,Victualling,Belfast,Saloon Steward,0,English
+"KIERAN, Mr Edgar Michael",34,Male,Victualling,Southampton,Storekeeper,0,Irish
+"KIERAN, Mr James William",35,Male,Victualling,Southampton,Chief 3rd Class Steward,0,English
+"KINCHENTEN, Mr Frederick Charles",36,Male,Engineering,Southampton,Greaser,0,English
+"KING, Mr Alfred John Moffett",18,Male,Victualling,Southampton,Lift Steward,0,English
+"KING, Mr Ernest Waldron",28,Male,Victualling,Southampton,Clerk (1st class),0,Irish
+"KING, Mr Thomas Walter",42,Male,Deck,Southampton,Master-at-arms,0,English
+"KINGSCOTE, Mr William Ford",48,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"KINSELLA, Mr Louis",30,Male,Engineering,Southampton,Fireman,0,English
+"KIRKALDY, Mr Thomas Benjamin",35,Male,Victualling,Southampton,Bed Room Steward,0,English
+"KIRKHAM, Mr James",43,Male,Engineering,Southampton,Greaser,0,English
+"KITCHING, Mr Arthur Alfred",31,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"KLEIN, Mr Herbert",34,Male,Victualling,Southampton,Barber,0,English
+"KNIGHT, Mr George",46,Male,Victualling,Southampton,Saloon Steward,1,English
+"KNIGHT, Mr Leonard George",21,Male,Victualling,Southampton,Steward (3rd class),0,English
+"KNOWLES, Mr Thomas",44,Male,Engineering,Southampton,Firemens' Messman,1,English
+"LACEY, Mr Bertie William",19,Male,Victualling,Southampton,"Assistant Saloon steward, 2nd Class",0,English
+"LAHY, Mr T.",41,Male,Engineering,Southampton,Fireman,0,English
+"LAKE, Mr William",46,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"LANE, Mr Albert Edward",33,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"LATIMER, Mr Andrew",55,Male,Victualling,Belfast,Chief Steward,0,English
+"LAVINGTON, Miss Elizabeth",40,Female,Victualling,Southampton,Stewardess,1,English
+"LAWRANCE, Mr Arthur",36,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"LEADER, Mr Archibald",22,Male,Victualling,Southampton,Confectioner,0,Welsh
+"LEATHER, Mrs Elizabeth Mary",50,Female,Victualling,Southampton,Stewardess,1,English
+"LEE, Mr Henry Reginald",29,Male,Victualling,Southampton,Scullion,1,English
+"LEE, Mr Herbert Henry",17,Male,Engineering,Southampton,Trimmer,0,English
+"LEE, Mr Reginald Robinson",41,Male,Deck,Southampton,Lookout,1,English
+"LEFEBVRE, Mr Paul Georges",35,Male,Victualling,Southampton,Saloon Steward,0,French
+"LEONARD, Mr Matthew",25,Male,Victualling,Belfast,3rd Class Steward,0,"American, Irish"
+"LEVETT, Mr George Alfred",25,Male,Victualling,Belfast,Assistant Pantryman Steward (1st Class),0,English
+"LEWIS, Mr Arthur Ernest Read",27,Male,Victualling,Southampton,Steward,1,English
+"LIGHT, Mr Charles Edward",24,Male,Victualling,Southampton,Plate Steward (1st class),0,English
+"LIGHT, Mr Christopher William",20,Male,Engineering,Southampton,Fireman,0,English
+"LIGHT, Mr W.",47,Male,Engineering,Southampton,Fireman,0,English
+"LIGHTOLLER, Mr Charles Herbert",38,Male,Deck Officers,Belfast,2nd. Officer,1,English
+"LINDSAY, Mr William Charles",30,Male,Engineering,Southampton,Fireman,1,English
+"LITTLEJOHN, Mr Alexander James",40,Male,Victualling,Belfast,Saloon Steward (1st class),1,English
+"LLOYD, Mr Humphrey",41,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"LLOYD, Mr William",29,Male,Engineering,Southampton,Fireman,0,English
+"LOCKE, Mr Albert George",33,Male,Victualling,Southampton,Scullion,0,English
+"LONG, Mr Frank",31,Male,Engineering,Southampton,Trimmer,0,English
+"LONG, Mr William",36,Male,Engineering,Southampton,Trimmer,0,English
+"LONGMUIR, Mr John Dickson",19,Male,Victualling,Southampton,Assistant Pantry Steward (2nd class),0,English
+"LOVELL, Mr John",37,Male,Victualling,Southampton,Grill Cook,0,English
+"LOWE, Mr Harold Godfrey",29,Male,Deck Officers,Belfast,5th. Officer,1,Welsh
+"LUCAS, Mr William Arthur",25,Male,Deck,Southampton,Able Seaman,1,English
+"LUCAS, Mr William Watson",31,Male,Victualling,Belfast,Saloon Steward (1st class),1,English
+"LYDIATT, Mr Charles",45,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"LYONS, Mr William Henry",25,Male,Deck,Southampton,Able Seaman,0,Irish
+"MABEY, Mr John Charles",23,Male,Victualling,Southampton,3rd Class Steward,0,English
+"MACKIE, Mr George William",34,Male,Victualling,Southampton,2nd Class Bedroom Steward,0,English
+"MACKIE, Mr William Dickson",32,Male,Engineering,Belfast,Junior 5th. Engineer,0,Scottish
+"MAJOR, Mr Thomas Edgar",36,Male,Victualling,Belfast,Bathroom Steward (1st Class),0,English
+"MAJOR, Mr William James",32,Male,Engineering,Southampton,Fireman,1,English
+"MANTLE, Mr Roland Frederick",40,Male,Victualling,Southampton,3rd Class Steward,0,English
+"MARCH, Mr John Starr",50,Male,Postal Clerk,Southampton,Postal Clerk / Postman,0,American
+"MARETT, Mr George John",26,Male,Engineering,Southampton,Fireman,0,English
+"MARKS, Mr James",27,Male,Victualling,Southampton,Assistant Pantryman Steward (1st Class),0,Scottish
+"MARRIOTT, Mr John William",21,Male,Victualling,Southampton,Assistant Pantryman Steward (1st Class),0,English
+"MARSDEN, Miss Evelyn",28,Female,Victualling,Southampton,Stewardess,1,Australian
+"MARSH, Mr Frederick Charles",39,Male,Engineering,Southampton,Fireman,0,English
+"MARTIN, Miss Mabel Elvina",20,Female,Restaurant,Southampton,Cashier,1,English
+"MARTIN, Mrs Annie Martha",39,Female,Victualling,Southampton,Stewardess,1,Channel Islander
+"MASKELL, Mr Leopold Adolphus",25,Male,Engineering,Southampton,Trimmer,0,English
+"MASON, Mr Frank Archibald Robert",32,Male,Engineering,Southampton,Fireman,1,English
+"MASON, Mr J.",39,Male,Engineering,Southampton,Leading Fireman,0,English
+"MATHERSON, Mr David",33,Male,Deck,Southampton,Able Seaman,0,Scottish
+"MATHIAS, Mr Montague Vincent",29,Male,Deck,Southampton,Mess Steward,0,Welsh
+"MATTMANN, Sig. Adolf",20,Male,Restaurant,Southampton,Ice Man,0,Swiss
+"MAUGé, Mr Paul Achille Maurice Germain",25,Male,Restaurant,Southampton,Kitchen Clerk,1,French
+"MAXWELL, Mr John",29,Male,Deck,Belfast,Carpenter / Joiner,0,English
+"MAY, Mr Arthur William",22,Male,Engineering,Southampton,Fireman,0,English
+"MAY, Mr Arthur William",59,Male,Engineering,Southampton,Fireman Messman,0,English
+"MAYNARD, Mr Isaac Hiram",31,Male,Victualling,Belfast,Entrée Cook,1,English
+"MAYO, Mr William Peter",27,Male,Engineering,Southampton,Leading Fireman,0,English
+"MAYTUM, Mr Alfred",53,Male,Victualling,Belfast,Chief Butcher,0,English
+"MAYZES, Mr Thomas Jubilee",25,Male,Engineering,Southampton,Fireman,1,English
+"MCANDREW, Mr Thomas Patrick",38,Male,Engineering,Southampton,Fireman,0,English
+"MCANDREWS, Mr William",23,Male,Engineering,Southampton,Fireman,0,
+"MCCARTHY, Mr William",48,Male,Deck,Southampton,Able Seaman,1,Irish
+"MCCARTY, Mr Frederick James",38,Male,Victualling,Southampton,Bedroom Steward (1st Class),0,English
+"MCCASTLIN, Mr William",28,Male,Engineering,Southampton,Fireman,0,Canadian
+"MCCAWLEY, Mr Thomas W.",36,Male,Victualling,Belfast,Gymnasium Steward,0,Scottish
+"MCELROY, Mr Hugh Walter",37,Male,Victualling,Southampton,Purser,0,English
+"MCGANN, Mr James",29,Male,Engineering,Southampton,Trimmer,1,English
+"MCGARVEY, Mr Edward Joseph",34,Male,Engineering,Southampton,Fireman,0,English
+"MCGAW, Mr Erroll Victor",30,Male,Engineering,Southampton,Fireman,0,English
+"MCGOUGH, Mr George Francis 'Paddy'",36,Male,Deck,Southampton,Able Seaman,1,Irish
+"MCGRADY, Mr James",27,Male,Victualling,Southampton,Saloon Steward,0,Irish
+"MCINERNEY, Mr Thomas",38,Male,Engineering,Southampton,Greaser,0,English
+"MCINTYRE, Mr William",21,Male,Engineering,Southampton,Trimmer,1,English
+"MCKAY, Mr Charles Donald",30,Male,Victualling,Belfast,Saloon Steward,1,English
+"MCLAREN, Mrs Hypatia",42,Female,Victualling,Southampton,Stewardess,1,English
+"MCMICKEN, Mr Arthur",26,Male,Victualling,Belfast,Saloon Steward (1st class),1,English
+"MCMICKEN, Mr Benjamin Tucker",21,Male,Victualling,Belfast,Second Pantry Steward,0,English
+"MCMULLIN, Mr John Richard",36,Male,Victualling,Belfast,First class saloon steward,0,English
+"MCMURRAY, Mr William",44,Male,Victualling,Belfast,1st Class Bedroom Steward,0,English
+"MCQUILLAN, Mr William",26,Male,Engineering,Belfast,Fireman,0,Irish
+"MCRAE, Mr William Alexander",32,Male,Engineering,Southampton,Fireman,0,English
+"MCREYNOLDS, Mr William Thomas Carson",22,Male,Engineering,Belfast,Junior 6th. Engineer,0,Irish
+"MELLOR, Mr Arthur",34,Male,Victualling,Southampton,Saloon Steward,0,
+"MIDDLETON, Mr Alfred Pirrie",27,Male,Engineering,Belfast,Assistant Electrician,0,Irish
+"MIDDLETON, Mr Mark Victor",24,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"MILFORD, Mr George",27,Male,Engineering,Southampton,Fireman,0,English
+"MILLAR, Mr Robert",26,Male,Engineering,Belfast,Extra 5th Engineer,0,Scottish
+"MILLAR, Mr Thomas",32,Male,Engineering,Belfast,Deck Engineer,0,Irish
+"MILLS, Mr Christopher",51,Male,Victualling,Southampton,Butcher,1,English
+"MINTRAM, Mr William",46,Male,Engineering,Southampton,Fireman,0,English
+"MISH'ALāNī, Mr Ibrāhīm Mansūr",53,Male,Victualling,Belfast,Printer Steward,0,Syrian
+"MITCHELL, Mr Lorenzo Horace",19,Male,Engineering,Southampton,Trimmer,0,English
+"MONRóS, Sr. Joan Javier",20,Male,Restaurant,Southampton,Assistant Waiter,0,Spanish
+"MONTEVERDI, Sig. Giovanni",23,Male,Restaurant,Southampton,Cook,0,French
+"MOODY, Mr James Paul",24,Male,Deck Officers,Belfast,6th. Officer,0,English
+"MOORE, Mr Alfred Ernest",38,Male,Victualling,Southampton,"Saloon Steward, 2nd Class",0,English
+"MOORE, Mr George Alfred",32,Male,Deck,Southampton,Able Seaman,1,English
+"MOORE, Mr J.",29,Male,Engineering,Southampton,Fireman,1,English
+"MOORE, Mr Ralph",22,Male,Engineering,Southampton,Trimmer,0,English
+"MOORES, Mr Richard Henry",44,Male,Engineering,Southampton,Greaser,0,English
+"MORGAN (BIRD), Mr Charles Frederick",44,Male,Victualling,Southampton,Storekeeper (1st Class),0,English
+"MORGAN, Mr Arthur Herbert",27,Male,Engineering,Southampton,Trimmer,0,English
+"MORGAN, Mr Thomas A.",26,Male,Engineering,Southampton,Fireman,0,English
+"MORRIS, Mr Frank Herbert",28,Male,Victualling,Belfast,Bathroom Steward (1st Class),1,English
+"MORRIS, Mr William Edward",23,Male,Engineering,Southampton,Trimmer,0,English
+"MOSS, Mr William",35,Male,Victualling,Belfast,1st Class Saloon Steward,0,English
+"MOYES, Mr William Young",24,Male,Engineering,Belfast,Senior 6th. Engineer,0,Scottish
+"MüLLER, Mr Ludwig",37,Male,Victualling,Southampton,Interpreter Steward (3rd Class),0,German
+"MULLIN, Mr Thomas",20,Male,Victualling,Southampton,3rd Class Steward,0,Scottish
+"MURDOCH, Mr William McMaster",39,Male,Deck Officers,Belfast,1st. Officer,0,Scottish
+"MURDOCK, Mr William John",37,Male,Engineering,Belfast,Fireman,1,English
+"NANNINI, Sig. Francesco Luigi Arcangelo",42,Male,Restaurant,Southampton,Head Waiter (Restaurant),0,Italian
+"NEAL, Mr Harold Bentley",25,Male,Victualling,Southampton,Baker,1,English
+"NETTLETON, Mr George Walter",30,Male,Engineering,Southampton,Fireman,0,English
+"NEWMAN, Mr Charles Thomas",32,Male,Engineering,Southampton,Assistant Storekeeper,0,English
+"NICHOLLS, Mr Sidney",39,Male,Victualling,Southampton,Saloon Steward,0,English
+"NICHOLS, Mr Albert William Stanley",47,Male,Deck,Belfast,Boatswain,0,Australian
+"NICHOLS, Mr Arthur",45,Male,Victualling,Southampton,Steward,0,English
+"NICHOLS, Mr Walter Henry",35,Male,Victualling,Southampton,"Assistant Saloon Steward, 2nd class",1,English
+"NIVEN, Mr John Brown",30,Male,Engineering,Southampton,Fireman,0,Scottish
+"NOON, Mr John Thomas",42,Male,Engineering,Southampton,Fireman,0,English
+"NORRIS, Mr James",22,Male,Engineering,Southampton,Fireman,0,English
+"NOSS, Mr Bertram Arthur",20,Male,Engineering,Southampton,Fireman,0,English
+"NOSS, Mr Henry",30,Male,Engineering,Southampton,Fireman,1,English
+"NUTBEAN, Mr William",30,Male,Engineering,Southampton,Fireman,1,English
+"O'CONNOR, Mr John",29,Male,Engineering,Southampton,Trimmer,1,English
+"O'CONNOR, Mr Thomas Peter",44,Male,Victualling,Belfast,1st Class Bedroom Steward,0,English
+"O'LOUGHLIN, Dr William Francis Norman",63,Male,Deck,Belfast,Surgeon,0,Irish
+"OLIVE, Mr Charles",31,Male,Engineering,Southampton,Greaser,0,English
+"OLIVE, Mr Ernest Roskelly",27,Male,Victualling,Southampton,Clothes Presser Steward (1st class),0,English
+"OLIVER, Mr Harry",41,Male,Engineering,Southampton,Fireman,1,English
+"OLLIVER, Mr Alfred John",27,Male,Deck,Belfast,Quartermaster,1,Channel Islander
+"ORPET, Mr Walter Hayward",31,Male,Victualling,Southampton,Saloon Steward,0,English
+"ORR, Mr James",39,Male,Victualling,Southampton,Assistant Vegetable Cook,0,Scottish
+"OSBORNE, Mr William Edward",33,Male,Victualling,Belfast,Saloon Steward,0,English
+"OSMAN, Mr Frank",27,Male,Deck,Southampton,Able Seaman,1,English
+"OTHEN, Mr Charles Alfred",36,Male,Engineering,Southampton,Fireman,1,English
+"OWEN, Mr Lewis",49,Male,Victualling,Southampton,"Assistant Saloon Steward, 2nd Class",0,Welsh
+"PACEY, Mr Reginald lvan",17,Male,Victualling,Southampton,Lift Steward,0,English
+"PACHERA, Sig. Jean Baptiste Stanislas",19,Male,Restaurant,Southampton,Assistant Larder Cook,0,French
+"PAICE, Mr Richard Charles John",32,Male,Engineering,Southampton,Fireman,0,English
+"PAINTER, Mr Charles",32,Male,Engineering,Southampton,Fireman,0,English
+"PAINTER, Mr Frank",29,Male,Engineering,Southampton,Fireman,0,English
+"PAINTIN, Mr James Arthur",29,Male,Victualling,Southampton,Captain's Steward (Tiger),0,English
+"PALLES, Mr Thomas Henry Michael",45,Male,Engineering,Belfast,Greaser,0,English
+"PARSONS, Mr Edward",37,Male,Victualling,Southampton,Chief Storekeeper (1st Class),0,English
+"PARSONS, Mr Frank Alfred",26,Male,Engineering,Belfast,Senior 5th. Engineer,0,English
+"PARSONS, Mr Richard Henry",18,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"PASCOE, Mr Charles Henry",45,Male,Deck,Southampton,Able Seaman,1,English
+"PEARCE, Mr Alfred Ernest",24,Male,Victualling,Southampton,Steward,0,Irish
+"PEARCE, Mr John",33,Male,Engineering,Southampton,Fireman,1,English
+"PEARCEY, Mr Albert Victor",25,Male,Victualling,Southampton,Pantry Steward (3rd Class),1,English
+"PEDRINI, Sig. Alessandro",21,Male,Restaurant,Southampton,Assistant Waiter,0,Swiss
+"PELHAM, Mr George",39,Male,Engineering,Southampton,Trimmer,1,English
+"PENNAL, Mr Thomas Frederick Cohen",34,Male,Victualling,Southampton,Bathroom Steward (1st Class),0,English
+"PENNY, Mr William Farr",31,Male,Victualling,Southampton,Assistant Saloon Steward (2nd Class),0,English
+"PENROSE, Mr John Poole",49,Male,Victualling,Belfast,Bedroom Steward (1st Class),0,English
+"PERACCHIO, Sig. Alberto",20,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"PERACCHIO, Sig. Sebastiano",17,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"PERKINS, Mr Laurence Alexander",22,Male,Victualling,Southampton,Telephone Operator Steward,0,English
+"PERKIS, Mr Walter John",37,Male,Deck,Belfast,Quartermaster,1,English
+"PEROTTI, Sig. Alfonso",20,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"PERREN, Mr William Charles",47,Male,Victualling,Southampton,Boots Steward (2nd class),0,English
+"PERRITON, Mr Hubert Prouse",32,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"PERRY, Mr Edgar Lionel",19,Male,Engineering,Southampton,Trimmer,1,English
+"PERRY, Mr Henry Frederick",23,Male,Engineering,Southampton,Trimmer,0,English
+"PETERS, Mr William Chapman",26,Male,Deck,Southampton,Able Seaman,1,English
+"PETTY, Mr Edwin Henry",25,Male,Victualling,Southampton,Bedroom Steward (2nd class),0,English
+"PFROPPER, Mr Richard Paul Jozef",30,Male,Victualling,Southampton,Saloon Steward,1,German
+"PHILLIMORE, Mr Harold Charles William",23,Male,Victualling,Belfast,Saloon Steward (2nd class),1,English
+"PHILLIPS, Mr George",27,Male,Engineering,Southampton,Greaser,0,English
+"PHILLIPS, Mr John George",25,Male,Victualling,Belfast,Telegraphist,0,English
+"PHILLIPS, Mr Walter John",37,Male,Restaurant,Southampton,Storekeeper,0,English
+"PIATTI, Sig. Louis",17,Male,Restaurant,Southampton,Assistant Waiter,0,French
+"PIAZZA, Sig. Pompeo Gaspro",33,Male,Restaurant,Southampton,Waiter,0,English
+"PITFIELD, Mr William James",25,Male,Engineering,Southampton,Greaser,0,English
+"PITMAN, Mr Herbert John",34,Male,Deck Officers,Belfast,3rd. Officer,1,English
+"PLATT, Mr Wilfred George",17,Male,Victualling,Southampton,Scullion,0,English
+"PODESTA, Mr Alfred John Alexander",24,Male,Engineering,Southampton,Fireman,1,English
+"POGGI, Sig. Emilio",28,Male,Restaurant,Southampton,Waiter,0,Italian
+"POINGDESTRE, Mr John Thomas",27,Male,Deck,Southampton,Able Seaman,1,Channel Islander
+"POND, Mr George",32,Male,Engineering,Southampton,Fireman,0,English
+"POOK, Mr Percy Robert",36,Male,Victualling,Southampton,Assistant pantry steward,0,English
+"PORT, Mr Frank",22,Male,Victualling,Southampton,Steward,1,English
+"PORTEUS, Mr Thomas Henry",33,Male,Victualling,Southampton,Butcher,0,English
+"PRANGNELL, Mr George Alexander",30,Male,Engineering,Southampton,Greaser,1,English
+"PRENTICE, Mr Frank Winnold",23,Male,Victualling,Southampton,Storekeeper,1,English
+"PRESTON, Mr Thomas Charles Alfred",20,Male,Engineering,Southampton,Trimmer,0,English
+"PRICE, Mr Ernest Cyril",17,Male,Restaurant,Southampton,Barman,0,English
+"PRICHARD, Mrs Alice Maud",36,Female,Victualling,Southampton,Stewardess,1,English
+"PRIDEAUX, Mr John Arthur (Jack)",23,Male,Victualling,Southampton,3rd Class Steward,0,English
+"PRIEST, Mr Arthur John",24,Male,Engineering,Southampton,Fireman,1,English
+"PRIOR, Mr Harold John Arnold",20,Male,Victualling,Southampton,Steward (3rd Class),1,English
+"PROCTOR, Mr Charles",45,Male,Victualling,Belfast,Chef,0,English
+"PROUDFOOT, Mr Richard Royston",21,Male,Engineering,Southampton,Trimmer,0,English
+"PRYCE, Mr Charles William",22,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"PUGH, Mr Alfred",20,Male,Victualling,Southampton,3rd Class Steward,1,English
+"PUGH, Mr Arthur Percy",31,Male,Engineering,Southampton,Leading Fireman,0,English
+"PUSEY, Mr William Robert Holland",22,Male,Engineering,Southampton,Fireman,1,English
+"PUZEY, Mr John Edward",44,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"RANDALL, Mr Frank Henry",29,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"RANGER, Mr Thomas",29,Male,Engineering,Southampton,Greaser,1,English
+"RANSOM, Mr James Augustus",50,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"RATTENBURY, Mr William Henry",38,Male,Victualling,Belfast,Boots steward (1st class),0,Channel Islander
+"RATTI, Sig. Enrico",21,Male,Restaurant,Southampton,Waiter,0,Italian
+"RAY, Mr Frederick Dent",32,Male,Victualling,Belfast,Saloon Steward,1,English
+"READ, Mr Joseph",20,Male,Engineering,Southampton,Trimmer,0,English
+"REED, Mr Thomas Charles Prowse",54,Male,Victualling,Southampton,Bed Room Steward,0,English
+"REEVES, Mr Frederick Simms",34,Male,Engineering,Southampton,Fireman,0,English
+"REEVES, Mr Frederick Vernon Hilton",20,Male,Victualling,Belfast,Assistant Pantryman Steward,0,English
+"REID, Mr Robert Thomas",31,Male,Engineering,Southampton,Trimmer,0,English
+"RENTOWL, Mr Philip Charles Thomas",26,Male,Engineering,Southampton,Fireman,0,English
+"REVELL, Mr William James Francis",31,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"RICALDONE, Sig. Rinaldo Renato",22,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"RICE, Mr Charles John",32,Male,Engineering,Southampton,Fireman,1,English
+"RICE, Mr John Reginald",25,Male,Victualling,Southampton,1st Class Clerk,0,English
+"RICE, Mr Percy",19,Male,Victualling,Southampton,3rd Class Steward,0,English
+"RICHARDS, Mr Joseph James",30,Male,Engineering,Southampton,Fireman,0,English
+"RICKMAN, Mr George Albert",36,Male,Engineering,Southampton,Fireman,0,English
+"RICKS, Mr Cyril Gordon",22,Male,Victualling,Southampton,Storekeeper,0,English
+"RIDOUT, Mr Walter George",29,Male,Victualling,Southampton,Second Class Saloon Steward,0,English
+"RIGOZZI, Mr Abele",22,Male,Restaurant,Southampton,Assistant Waiter,0,Swiss
+"RIMMER, Mr Gilbert",29,Male,Victualling,Southampton,Saloon Steward,0,English
+"ROBERTON, Mr George Edward",19,Male,Victualling,Southampton,Assistant Saloon Steward (2nd Class),0,English
+"ROBERTS, Mr Frank John",36,Male,Victualling,Belfast,Third Butcher,0,English
+"ROBERTS, Mr Hugh H.",41,Male,Victualling,Belfast,Bed Room Steward,0,Welsh
+"ROBERTS, Mr Robert George",35,Male,Engineering,Southampton,Fireman,0,English
+"ROBERTS, Mrs Mary Kezia",41,Female,Victualling,Southampton,Stewardess,1,English
+"ROBINSON, Mr James William",30,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"ROBINSON, Mrs Annie",47,Female,Victualling,Southampton,Stewardess,1,English
+"ROGERS, Mr Edward James William",31,Male,Victualling,Southampton,Assistant Storekeeper,0,English
+"ROGERS, Mr Michael Joseph",26,Male,Victualling,Southampton,Saloon Steward,0,Irish
+"ROSS, Mr Horace Leopold",38,Male,Victualling,Southampton,Scullion,1,English
+"ROTTA, Sig. Angelo Mario",23,Male,Restaurant,Southampton,Waiter,0,Italian
+"ROUS, Mr Arthur John",26,Male,Engineering,Belfast,Plumber,0,English
+"ROUSSEAU, Mr Pierre",48,Male,Restaurant,Southampton,Chef,0,French
+"ROWE, Mr Edgar Maurice",31,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"ROWE, Mr George Thomas",31,Male,Deck,Belfast,Quartermaster,1,English
+"RUDD, Mr Henry",24,Male,Engineering,Southampton,Engineers' storekeeper,0,English
+"RULE, Mr Samuel James",58,Male,Victualling,Belfast,Bathroom Steward (1st Class),1,English
+"RUSSELL, Mr Boysie Richard",17,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"RUTTER, Mr Sidney Frank",26,Male,Engineering,Southampton,Fireman,0,English
+"RYAN, Mr Thomas",28,Male,Victualling,Southampton,Steward,0,Channel Islander
+"RYERSON, Mr William Edwy",33,Male,Victualling,Southampton,Saloon Steward (2nd class),1,Canadian
+"SACCAGGI, Sig. Giovanni Giuseppe Emilio",24,Male,Restaurant,Southampton,Assistant Waiter,0,Italian
+"SALUSSOLIA, Mr Govanni",25,Male,Restaurant,Southampton,Glass Man,0,Italian
+"SAMUEL, Mr Owen Wilmore",47,Male,Victualling,Southampton,Saloon Steward (2nd class),0,Welsh
+"SANGSTER, Mr Charles Edward",30,Male,Engineering,Southampton,Fireman,0,English
+"SARTORI, Sig. Lazar",24,Male,Restaurant,Southampton,Assistant Glass Man,0,Italian
+"SAUNDERS, Mr F.",22,Male,Engineering,Southampton,Fireman,0,English
+"SAUNDERS, Mr Walter Ernest",25,Male,Engineering,Southampton,Trimmer,0,English
+"SAUNDERS, Mr William Ernest",32,Male,Victualling,Southampton,Saloon Steward,0,English
+"SAUNDERS, Mr William Henry",31,Male,Engineering,Southampton,Fireman,0,English
+"SAVAGE, Mr Charles James",23,Male,Victualling,Southampton,Steward,1,English
+"SAWYER, Mr Robert James",31,Male,Deck,Southampton,Window Cleaner,0,English
+"SCARROTT, Mr Joseph George",33,Male,Deck,Southampton,Able Seaman,1,English
+"SCAVINO, Sig. Candido",42,Male,Restaurant,Southampton,Carver,0,Italian
+"SCOTT, Mr Archibald",42,Male,Engineering,Southampton,Fireman,0,Irish
+"SCOTT, Mr Frederick William",28,Male,Engineering,Southampton,Greaser,1,English
+"SCOTT, Mr John",20,Male,Victualling,Southampton,Assistant boots steward (1st Class),0,English
+"SCOVELL, Mr Robert",55,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"SEDUNARY, Mr Samuel Francis",25,Male,Victualling,Southampton,Second third class steward,0,English
+"SELF, Mr Albert Charles Edward",24,Male,Engineering,Southampton,Fireman,1,English
+"SELF, Mr Alfred Henry",39,Male,Engineering,Southampton,Greaser,0,English
+"SENIOR, Mr Harry",31,Male,Engineering,Southampton,Fireman,1,English
+"SESIA, Sig. Giacomo",24,Male,Restaurant,Southampton,Waiter,0,Italian
+"SEWARD, Mr Wilfred Deable",25,Male,Victualling,Southampton,Chief Pantry Steward (2nd Class),1,English
+"SHAW, Mr Henry",41,Male,Victualling,Southampton,Kitchen Porter,0,English
+"SHEA, Mr John Joseph",39,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"SHEA, Mr Thomas",32,Male,Engineering,Southampton,Fireman,0,English
+"SHEATH, Mr Frederick",20,Male,Engineering,Southampton,Trimmer,1,English
+"SHEPHERD, Mr Jonathan",32,Male,Engineering,Southampton,Junior Assistant 2nd. Engineer,0,English
+"SHIERS, Mr Alfred Charles",25,Male,Engineering,Southampton,Fireman,1,English
+"SHILLABEER, Mr Charles Frederick",19,Male,Engineering,Southampton,Trimmer,0,English
+"SHULVER, Mr Christopher Arthur",28,Male,Engineering,Southampton,Fireman,1,English
+"SIEBERT, Mr Sidney Conrad",29,Male,Victualling,Belfast,Bed Room Steward,0,English
+"SIMMONS, Mr Andrew George James",31,Male,Victualling,Southampton,Scullion,1,English
+"SIMMONS, Mr Frederick Charles",24,Male,Victualling,Southampton,Saloon Steward,0,English
+"SIMMONS, Mr William Simon Catcott",37,Male,Victualling,Southampton,Passage Cook,0,English
+"SIMPSON, Dr John Edward",37,Male,Deck,Southampton,Assistant Surgeon,0,Irish
+"SIVIER, Mr William",23,Male,Victualling,Southampton,Steward (3rd Class),0,English
+"SKEATES, Mr William",23,Male,Engineering,Southampton,Trimmer,0,English
+"SKINNER, Mr Edward",41,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"SLIGHT, Mr Harry John",33,Male,Victualling,Southampton,3rd Class Steward,0,English
+"SLIGHT, Mr William Henry James",36,Male,Victualling,Belfast,Larder Cook,0,English
+"SLOAN, Miss Mary Jane",45,Female,Victualling,Southampton,Stewardess,1,Irish
+"SLOAN, Mr Peter",31,Male,Engineering,Belfast,Chief Electrician,0,English
+"SLOCOMBE, Mrs Maude Louise",30,Female,Victualling,Southampton,Turkish Bath Stewardess,1,English
+"SMALL, Mr William McMillan",42,Male,Engineering,Southampton,Leading Fireman,0,English
+"SMILLIE, Mr John Downing",28,Male,Victualling,Belfast,Saloon Steward,0,Scottish
+"SMITH, Captain Edward John",62,Male,Deck Officers,Southampton,Master,0,English
+"SMITH, Miss Kate Elizabeth",44,Female,Victualling,Southampton,Stewardess,1,English
+"SMITH, Mr Charles Edwin",39,Male,Victualling,Southampton,2nd Class Bedroom Steward,0,English
+"SMITH, Mr Charles Henry James",45,Male,Victualling,Southampton,Kitchen Porter,0,English
+"SMITH, Mr Ernest George",27,Male,Engineering,Southampton,Trimmer,0,English
+"SMITH, Mr James Muil",39,Male,Engineering,Belfast,Junior 4th. Engineer,0,Scottish
+"SMITH, Mr James William",24,Male,Victualling,Southampton,Assistant baker,0,English
+"SMITH, Mr John Richard Jago",35,Male,Postal Clerk,Southampton,Postal Clerk / Postman,0,English
+"SMITH, Mr Reginald George",33,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"SMITH, Mr William",26,Male,Deck,Southampton,Seaman,0,English
+"SMITHER, Mr Harry James",22,Male,Engineering,Southampton,Fireman,0,English
+"SNAPE, Mrs Lucy Violet",22,Female,Victualling,Southampton,Stewardess,0,English
+"SNELLGROVE, Mr George",41,Male,Engineering,Southampton,Fireman,0,English
+"SNOOK, Mr William Henry",25,Male,Engineering,Southampton,Trimmer,0,English
+"SNOW, Mr Eustace Philip",21,Male,Engineering,Southampton,Trimmer,1,English
+"SPARKMAN, Mr Henry William",36,Male,Engineering,Southampton,Fireman,1,English
+"STAGG, Mr John Henry",38,Male,Victualling,Southampton,Saloon Steward,0,English
+"STANBROOK, Mr  Augustus George",31,Male,Engineering,Southampton,Fireman,0,English
+"STAP, Miss Sarah Agnes",47,Female,Victualling,Southampton,Stewardess,1,English
+"STEBBINGS, Mr Sydney Frederick",36,Male,Victualling,Belfast,Chief Boots Steward (1st Class),0,English
+"STEEL, Mr Robert Edward",30,Male,Engineering,Southampton,Trimmer,0,Channel Islander
+"STEWART, Mr John",28,Male,Victualling,Belfast,Verandah Steward,1,Scottish
+"STOCKER, Mr Henry Dorey",20,Male,Engineering,Southampton,Trimmer,0,English
+"STONE, Mr Edmund",33,Male,Victualling,Southampton,1st Class Bedroom Steward,0,English
+"STONE, Mr Edward Thomas",29,Male,Victualling,Southampton,Bedroom Steward (2nd class),0,English
+"STREET, Mr Thomas Albert",25,Male,Engineering,Southampton,Fireman,1,English
+"STROUD, Mr Edward Alfred Orlando",19,Male,Victualling,Southampton,Saloon Steward (2nd class),0,English
+"STROUD, Mr Harry John",35,Male,Victualling,Southampton,Saloon Steward,0,English
+"STRUGNELL, Mr John Herbert",34,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"STUBBINGS, Mr Harry Robert",31,Male,Victualling,Belfast,2nd. Class Cook,0,English
+"STUBBS, Mr James Henry",28,Male,Engineering,Southampton,Fireman,0,English
+"SWAN, Mr William",48,Male,Victualling,Belfast,1st Class Bedroom Steward,0,Irish
+"SYMONDS, Mr John Crane",44,Male,Victualling,Belfast,Saloon Steward,0,English
+"SYMONS, Mr George Thomas Macdonald",24,Male,Deck,Southampton,Lookout,1,English
+"TALBOT, Mr George Frederick Charles",20,Male,Victualling,Southampton,Steward,0,English
+"TAMLYN, Mr Frederick",23,Male,Deck,Southampton,Mess Steward (Deck Dept.),0,English
+"TAYLOR, Mr Bernard Cuthbert",22,Male,Victualling,Southampton,3rd Class Steward,0,English
+"TAYLOR, Mr Charles William Frederick",40,Male,Deck,Southampton,Able-bodied Seaman,0,English
+"TAYLOR, Mr George",23,Male,Engineering,Southampton,Fireman,1,English
+"TAYLOR, Mr J.",42,Male,Engineering,Southampton,Fireman,0,English
+"TAYLOR, Mr John Henry",49,Male,Engineering,Southampton,Fireman,0,English
+"TAYLOR, Mr Leonard",19,Male,Victualling,Southampton,Turkish Bath Attendant,0,English
+"TAYLOR, Mr William Henry",28,Male,Engineering,Southampton,Fireman,1,English
+"TAYLOR, Mr William John",31,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"TERRELL, Mr Bertram",19,Male,Deck,Southampton,Seaman,0,English
+"TERRILL, Mr Frank",27,Male,Victualling,Southampton,Assistant Saloon Steward,1,English
+"TESTONI, Sig. Ercole",23,Male,Restaurant,Southampton,Assistant Glass Man,0,Italian
+"TEUTON, Mr Thomas Moore",35,Male,Victualling,Southampton,Saloon Steward,0,English
+"THALER, Mr Montague Donald",17,Male,Victualling,Southampton,Steward (3rd Class),0,English
+"THEISSINGER, Mr Alfred",46,Male,Victualling,Southampton,Bed Room Steward,1,German
+"THOMAS, Mr Albert Charles",23,Male,Victualling,Southampton,Saloon Steward,1,English
+"THOMAS, Mr Benjamin James",30,Male,Victualling,Belfast,Saloon Steward,1,English
+"THOMAS, Mr Joseph Wakefield",23,Male,Engineering,Southampton,Fireman,0,English
+"THOMPSON, Mr Herbert Henry",25,Male,Victualling,Belfast,2nd (Assistant) Storekeeper,0,English
+"THOMPSON, Mr John William",36,Male,Engineering,Southampton,Fireman,1,English
+"THORLEY, Mr William Gordon",41,Male,Victualling,Southampton,Cook,0,English
+"THORN, Mr Harry",25,Male,Victualling,Southampton,Assistant Ship's Cook,0,English
+"THRELFALL, Mr Thomas",44,Male,Engineering,Southampton,Leading Fireman,1,English
+"THRESHER, Mr George Terrill",25,Male,Engineering,Southampton,Fireman,1,English
+"TIETZ, Sig. Carlo/Karl",27,Male,Restaurant,Southampton,Kitchen Porter,0,German
+"TIZARD, Mr Arthur Leopold",31,Male,Engineering,Southampton,Fireman,0,English
+"TOMS, Mr Fred",29,Male,Victualling,Belfast,Saloon Steward,1,English
+"TOPP, Mr Thomas",27,Male,Victualling,Southampton,2nd Butcher,0,English
+"TOSHACK, Mr James Adamson",30,Male,Victualling,Southampton,Saloon Steward (1st class),0,Scottish
+"TOZER, Mr James",32,Male,Engineering,Southampton,Greaser,0,English
+"TRIGGS, Mr Robert",41,Male,Engineering,Southampton,Fireman,1,English
+"TURLEY, Mr Richard",37,Male,Engineering,Belfast,Fireman,0,Irish
+"TURNER, Mr George Frederick",42,Male,Victualling,Southampton,Stenographer,0,English
+"TURNER, Mr Leopold Olerenshaw",28,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"TURVEY, Mr Charles Thomas",17,Male,Restaurant,Southampton,Page Boy,0,English
+"URBINI, Sig. Roberto",20,Male,Restaurant,Southampton,Waiter,0,Italian
+"VALVASSORI, Sig. Ettore Luigi",35,Male,Restaurant,Southampton,Waiter,0,"Italian, English"
+"VAN DER BRUGGE, Mr Wessel Adrianus",38,Male,Engineering,Southampton,Fireman,0,Dutch
+"VEAL, Mr Arthur",36,Male,Engineering,Southampton,Greaser,0,English
+"VEAL, Mr Thomas Henry Edom",38,Male,Victualling,Southampton,Saloon Steward (1st class),0,English
+"VEAR, Mr Henry",33,Male,Engineering,Southampton,Fireman,0,English
+"VEAR, Mr William",34,Male,Engineering,Southampton,Fireman,0,English
+"VICAT, Sig. Alphonse Jean Eugene",21,Male,Restaurant,Southampton,Cook,0,French
+"VIGOTT, Mr Philip Francis",32,Male,Deck,Southampton,Able Seaman,1,Channel Islander
+"VILLVARLANGE, Mr Pierre Léon Gabriel",19,Male,Restaurant,Southampton,Assistant Soup Cook,0,French
+"VINE, Mr Herbert Thomas Gordon",17,Male,Restaurant,Southampton,Assistant Restaurant Controller,0,English
+"VIONI, Sig. Roberto",25,Male,Restaurant,Southampton,Waiter,0,Italian
+"VöGELIN-DUBACH, Sig. Johannes",35,Male,Restaurant,Southampton,Coffee Man,0,Swiss
+"WAKE, Mr Percy",37,Male,Victualling,Southampton,Assistant baker,0,English
+"WALLIS, Mrs Catherine Jane",36,Female,Victualling,Southampton,Matron,0,English
+"WALPOLE, Mr James",48,Male,Victualling,Belfast,Chief Pantryman Steward,0,English
+"WALSH,  Kate",42,Female,Victualling,Southampton,Stewardess,0,Irish
+"WARD, Mr Arthur",23,Male,Engineering,Belfast,Junior Assistant 4th. Engineer,0,English
+"WARD, Mr Edward Bryon",34,Male,Victualling,Belfast,Bed Room Steward,0,English
+"WARD, Mr James William",31,Male,Engineering,Southampton,Leading Fireman,0,English
+"WARD, Mr Percy Thomas",40,Male,Victualling,Belfast,Bedroom Steward (1st Class),0,English
+"WARD, Mr William",37,Male,Victualling,Southampton,Saloon Steward,1,English
+"WARDNER, Mr Fred Albert",40,Male,Engineering,Southampton,Fireman,0,English
+"WAREHAM, Mr Robert Arthur",37,Male,Victualling,Belfast,Bed Room Steward,0,English
+"WARWICK, Mr Tom",25,Male,Victualling,Southampton,Saloon Steward,0,English
+"WATERIDGE, Mr Edward Lewis",26,Male,Engineering,Southampton,Fireman,0,English
+"WATSON, Mr William",27,Male,Engineering,Southampton,Fireman,0,English
+"WATSON, Mr William Albert",14,Male,Victualling,Southampton,Bell Boy,0,English
+"WEATHERSTON, Mr Thomas Herbert",25,Male,Victualling,Belfast,Saloon Steward (1st class),0,English
+"WEBB, Mr Brook Holding",50,Male,Victualling,Belfast,Smoke Room Steward (1st class),0,English
+"WEBB, Mr Samuel Francis",28,Male,Engineering,Southampton,Trimmer,0,English
+"WEBBER, Mr Francis Albert",30,Male,Engineering,Southampton,Leading Fireman,0,English
+"WEIKMAN, Mr Augustus Henry",52,Male,Victualling,Southampton,Barber,1,American
+"WELCH, Mr William Harold",21,Male,Victualling,Southampton,Cook,0,English
+"WELLER, Mr William Clifford",30,Male,Deck,Belfast,Able-bodied Seaman,1,English
+"WHEAT, Mr Joseph Thomas",30,Male,Victualling,Belfast,Assistant Second Steward,1,English
+"WHEELTON, Mr Edenser Edward",28,Male,Victualling,Belfast,Saloon Steward (1st class),1,English
+"WHITE, Mr Albert",17,Male,Engineering,Southampton,Trimmer,0,English
+"WHITE, Mr Alfred",32,Male,Engineering,Southampton,Greaser,1,English
+"WHITE, Mr Arthur",37,Male,Victualling,Southampton,Assistant Barber (1st Class),0,English
+"WHITE, Mr Edward Joseph",27,Male,Victualling,Southampton,Glory hole steward (3rd class),0,English
+"WHITE, Mr Frank Leonard",27,Male,Engineering,Southampton,Trimmer,0,English
+"WHITE, Mr Leonard Lisle Oliver",32,Male,Victualling,Belfast,Saloon Steward,0,Australian
+"WHITE, Mr William George",23,Male,Engineering,Southampton,Trimmer,1,English
+"WHITELEY, Mr Thomas Arthur",18,Male,Victualling,Southampton,Saloon Steward,1,English
+"WHITFORD, Mr Alfred Henry",39,Male,Victualling,Southampton,"Saloon Steward, 2nd Class",0,Channel Islander
+"WIDGERY, Mr Isaac George",37,Male,Victualling,Southampton,Bath Steward,1,English
+"WILDE, Mr Henry Tingle",39,Male,Deck Officers,Southampton,Chief Officer,0,English
+"WILLIAMS, Mr Arthur John",42,Male,Victualling,Southampton,Storekeeper (1st Class),0,English
+"WILLIAMS, Mr Samuel Solomon",28,Male,Engineering,Southampton,Fireman,0,English
+"WILLIAMS, Mr Walter John",28,Male,Victualling,Southampton,Saloon Steward (2nd class),1,English
+"WILLIAMSON, Mr James Bertram",35,Male,Postal Clerk,Southampton,Postal Clerk / Postman,0,Irish
+"WILLIS, Mr William",59,Male,Victualling,Southampton,3rd Class Packer Steward,0,English
+"WILLSHER, Mr William Aubrey",33,Male,Victualling,Southampton,Butcher,0,English
+"WILSON, Mr Bertie",27,Male,Engineering,Belfast,Senior Assistant 2nd Engineer,0,English
+"WILTON, Mr William Edward",53,Male,Engineering,Southampton,Trimmer,0,English
+"WINDEBANK, Mr Alfred Edgar",38,Male,Victualling,Southampton,Cook,1,English
+"WINSER, Mr Rowland",36,Male,Victualling,Southampton,Steward,0,English
+"WITCHER, Mr Albert Ernest",39,Male,Engineering,Southampton,Fireman,0,English
+"WITT, Mr Henry Dennis",37,Male,Engineering,Southampton,Fireman,0,English
+"WITTER, Mr James William Cheetham",31,Male,Victualling,Southampton,Smoke Room Steward (2nd Class),1,English
+"WITTMAN, Mr Henry",38,Male,Victualling,Southampton,Bathroom Steward (1st Class),0,Austrian
+"WITTS, Mr William Francis",35,Male,Engineering,Southampton,Trimmer,0,English
+"WOOD, Mr Henry",31,Male,Engineering,Southampton,Trimmer,0,English
+"WOOD, Mr James Thomas",49,Male,Victualling,Southampton,"Assistant Saloon Steward, 2nd Class",0,English
+"WOODFORD, Mr Frederick Ernest",40,Male,Engineering,Southampton,Greaser,0,English
+"WOODY, Mr Oscar Scott",41,Male,Postal Clerk,Southampton,Postal Clerk / Postman,0,American
+"WORMALD, Mr Henry Frederick Charles",45,Male,Victualling,Southampton,Saloon Steward,0,English
+"WORTHMAN, Mr William Henry",37,Male,Engineering,Southampton,Fireman,0,English
+"WRAPSON, Mr Frederick Bernard",18,Male,Victualling,Belfast,Assistant Pantryman Steward,0,English
+"WRIGHT, Mr Frederick",24,Male,Victualling,Southampton,Squash racquet court attendant,0,English
+"WRIGHT, Mr William",47,Male,Victualling,Southampton,Glory Hole Steward,1,English
+"WYETH, Mr James Robert",25,Male,Engineering,Southampton,Fireman,0,English
+"WYNN, Mr William",41,Male,Deck,Belfast,Quartermaster,1,English
+"YEARSLEY, Mr Harry",40,Male,Victualling,Southampton,First class saloon steward,1,English
+"YOUNG, Mr Francis James",32,Male,Engineering,Southampton,Fireman,0,English
+"ZANETTI, Sig. Minio",20,Male,Restaurant,Southampton,Assistant Waiter,0,Swiss
+"ZARRACCHI, Sig. L.",26,Male,Restaurant,Southampton,Wine Butler,0,Italian
