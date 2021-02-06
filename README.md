@@ -1,2 +1,3 @@
-# msdsdsc680
-Bellevue University MSDS DSC-680
+# Data Science Projects
+
+This repo contains all deliverables for three separate data science projects.
