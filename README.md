@@ -10,8 +10,8 @@ Content
 
 ### Files
 
-Project 1 - Titanic Crew Member Survival Data
+project_1 - Titanic Crew Member Survival Data
 
-Project 2 - Fantasy Football Player Rankings
+project_2 - Fantasy Football Player Rankings
 
-Project 3 - 
+project_3 - 
