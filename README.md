@@ -14,4 +14,4 @@ project_1 - Titanic Crew Member Survival Data
 
 project_2 - Fantasy Football Player Rankings
 
-project_3 - 
+project_3 - Flight Safety Data Analysis
