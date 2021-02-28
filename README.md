@@ -6,7 +6,7 @@ The projects repo contains all deliverables for three separate data science proj
 
 ### Objectives
 
-Content
+To present three separate projects showcasing the different methods and processes used within data science.
 
 ### Files
 
